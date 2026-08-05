@@ -193,9 +193,3 @@ To protect confidential business information, all company-specific documents, re
 
 **Blagoja Pavleski**
 
-Computer Science & Engineering
-
-- Microsoft Power Automate Desktop
-- Process Automation
-- Microsoft 365
-- Excel Automation
